@@ -9,11 +9,11 @@ do
    ./80.sh;
  sleep 250; 
    ./65.sh;
- sleep 230; 
+ sleep 165; 
    ./90.sh;
  sleep 190; 
   ./40.sh;
- sleep 200; 
+ sleep 175; 
 done;
 
 
